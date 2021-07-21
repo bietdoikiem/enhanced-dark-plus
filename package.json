@@ -1,0 +1,21 @@
+{
+	"name": "enhanced-dark-plus",
+	"displayName": "Enhanced Dark Plus",
+	"description": "The enhanced version of Dark+ theme in Visual Studio Code with Dark material color palette along with minor adjustments for a darker programming feel!",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.58.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Enhanced Dark Plus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Enhanced Dark Plus-color-theme.json"
+			}
+		]
+	}
+}
