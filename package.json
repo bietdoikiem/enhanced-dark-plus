@@ -1,5 +1,6 @@
 {
 	"name": "enhanced-dark-plus",
+	"publisher": "bietdoikiem",
 	"displayName": "Enhanced Dark Plus",
 	"description": "The enhanced version of Dark+ theme in Visual Studio Code with Dark material color palette along with minor adjustments for a darker programming feel!",
 	"version": "0.0.1",
@@ -9,6 +10,10 @@
 	"categories": [
 		"Themes"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bietdoikiem/enhanced-dark-plus.git"
+	},
 	"contributes": {
 		"themes": [
 			{

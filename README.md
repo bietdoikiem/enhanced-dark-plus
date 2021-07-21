@@ -1,16 +1,9 @@
-# README
+# Enhanced Dark Plus VSCode
 
-## This is the README for your extension "enhanced-dark-plus"
+## Enhanced Dark Plus - Bring new breath to your favorite default Dark+ theme!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<br/>
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<img src="https://i.imgur.com/ptMop4O.png"></img>
 
 **Enjoy!**
