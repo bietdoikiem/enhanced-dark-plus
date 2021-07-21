@@ -2,6 +2,7 @@
 	"name": "Enhanced Dark Plus",
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
+	"include": "./dark_plus.json",
 	"colors": {
 		"activityBar.background": "#202020",
 		"activityBar.border": "#282828",
@@ -554,6 +555,13 @@
 		//"welcomePage.buttonHoverBackground": null,
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
+	},
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"newOperator": "#d4d4d4",
+		"stringLiteral": "#ce9178",
+		"customLiteral": "#D4D4D4",
+		"numberLiteral": "#b5cea8"
 	},
 	"tokenColors": [
 		{
