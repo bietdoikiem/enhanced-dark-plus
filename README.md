@@ -6,6 +6,6 @@
 
 <img src="https://i.imgur.com/ptMop4O.png"></img>
 
-[https://marketplace.visualstudio.com/items?itemName=bietdoikiem.enhanced-dark-plus][Marketplace Installation]
+### [Marketplace Installation](https://marketplace.visualstudio.com/items?itemName=bietdoikiem.enhanced-dark-plus)
 
 **Enjoy!**
