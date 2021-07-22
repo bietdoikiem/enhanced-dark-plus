@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://i.ibb.co/tzCH0BY/image.png"></img>
+<img src="https://i.ibb.co/8KWXN3K/image.png"></img>
 
 ## [Marketplace Installation](https://marketplace.visualstudio.com/items?itemName=bietdoikiem.enhanced-dark-plus)
 
